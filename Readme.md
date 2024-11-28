@@ -59,7 +59,7 @@ To secure the Firebase database:
 
 ### Using Search Engines
 - **FOFA**:  
-  Query: `header="domain="firebaseio.com""`
+  Query: `"domain="firebaseio.com""`
 
 - **Shodan**:  
   Query: `http.title:"Firebase""`
@@ -69,7 +69,7 @@ To secure the Firebase database:
 
 ## ⭐ References
 
-Here are real-world examples of SharePoint vulnerabilities reported on HackerOne :
+Here are real-world examples of Firebaseio vulnerabilities reported on HackerOne :
 
 - [HackerOne Report 1065134](https://hackerone.com/reports/1065134)  
 - [HackerOne Report 1447751](https://hackerone.com/reports/1447751)  
