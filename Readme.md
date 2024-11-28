@@ -67,6 +67,15 @@ To secure the Firebase database:
 - **ZoomEye**:  
   Query: `site:"firebaseio.com""`
 
+## ⭐ References
+
+Here are real-world examples of SharePoint vulnerabilities reported on HackerOne :
+
+- [HackerOne Report 1065134](https://hackerone.com/reports/1065134)  
+- [HackerOne Report 1447751](https://hackerone.com/reports/1447751)  
+- [HackerOne Report 736283](https://hackerone.com/reports/736283)  
+- [HackerOne Report 684099](https://hackerone.com/reports/684099)
+
 
 ## ⚠️ Disclaimer
 This script is intended for educational purposes and for security testing of systems you own or have explicit permission to test. Do not use this for unauthorized activities.
