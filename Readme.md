@@ -24,9 +24,9 @@ Once subdomains are collected, use `httpx` to check `.json` endpoints for access
 ```bash
 httpx -l subdomains.txt -path "/.json" -mc 200 -o valid_subdomains.txt
 ```
-### ✅ Firebase Checking vulnerability
+### ✅ Firebase Checking vulnerability (Automatic Scanning & Exploit)
 ```bash
-firebaseExploiter -file valid_subdomains.txt
+firebaseExploiter -file subdomains.txt
 ```
 
 ### ✅ PoC Testing
